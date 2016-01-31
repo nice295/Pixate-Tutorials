@@ -6,5 +6,5 @@
 3. Action bar scrolling
    . Action bar scrolling depends on Scolling content area
 
-![GitHub Logo](/images/logo.png)
-![Alt layout](/Asset/Layout.jpg)
+### Layout
+![Alt layout](/03.Ripple/Asset/Layout.jpg)
