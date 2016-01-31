@@ -6,4 +6,5 @@
 3. Action bar scrolling
    . Action bar scrolling depends on Scolling content area
 
-![Alt layout](https://github.com/nice295/Pixate-Tutorials/tree/master/03.Ripple/Asset/Layout.jpg)
+![GitHub Logo](/images/logo.png)
+![Alt layout](/Asset/Layout.jpg)
