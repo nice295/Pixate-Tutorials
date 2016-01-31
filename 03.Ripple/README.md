@@ -8,3 +8,6 @@
 
 ### Layout
 ![Alt layout](/03.Ripple/Asset/Layout.jpg)
+
+### Result
+![Alt layout](/03.Ripple/Ripple.gif)
