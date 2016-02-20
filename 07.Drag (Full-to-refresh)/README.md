@@ -1,11 +1,5 @@
-# Drag
-You can drag any component and provide feedback after releasing the components.
+# Practical tutorial for drag 
+Now we can have a real project to improve our skil.
 
-
-### Project views
-1. Initial<br>
-<img src="https://github.com/nice295/Pixate-Tutorials/blob/master/06.Drag/Assets/view0.png" width="200">
-<img src="https://github.com/nice295/Pixate-Tutorials/blob/master/06.Drag/Assets/view2.png" width="200">
-2. In dragging<br>
-<img src="https://github.com/nice295/Pixate-Tutorials/blob/master/06.Drag/Assets/view1.png" width="200">
-<img src="https://github.com/nice295/Pixate-Tutorials/blob/master/06.Drag/Assets/view3.png" width="200">
+### Our target awesome project [(Go to the original ite)](https://dribbble.com/shots/1650317-Pull-to-Refresh-Rentals)
+<img src="https://camo.githubusercontent.com/d406ac5a03a2b1fa5cf41fadc8d2408cb8709bdc/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313635303331372f7265616c6573746174652d70756c6c5f312d322d332e676966" width="600">
